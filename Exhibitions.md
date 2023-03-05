@@ -1,9 +1,9 @@
 # Links to inspiring exhibitions
 
-Large or small, white wall or backyard, AAA curated or punk - this list of exhibitions is intended to inspire (reverse chronological order):
+Large or small, white wall or backyard, AAA curated or punk - this list of exhibitions is intended to inspire:
 
 **I don't remember much about her**        
-curated by [Kika Nicolela](https://www.kikanicolela.com/        
+curated by [Kika Nicolela](https://www.kikanicolela.com/)          
 March 2023, Centre d'Art de la Chapelle de Boondael, Brussels        
 https://www.visit.brussels/fr/visiteurs/evenement.I-don-t-remember-much-about-her-Kika-Nicolela.546129        
 https://twitter.com/kikanicolela/status/1631978113310531584/photo/1         

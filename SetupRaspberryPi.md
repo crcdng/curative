@@ -1,9 +1,11 @@
 # Setup Windows
 
+*Note: These steps worked for me after trial and error and research at a certain time. Technical setups can change quickly. If you hit a problem, please leave a bug report on Github so we can fix this together.*    
+
 Here is the setup for a Raspberry PI computer. When the PI starts, it is running a movie in a loop unattended and without artifacts (context see booklet).  
 
 ```
-Install PiOS Lite Legacy (Busker) 
+Install PiOS Lite Legacy (Buster) https://www.raspberrypi.com/software/operating-systems/  
 
 connect
 ssh-keygen -R raspberrypi.local

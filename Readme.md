@@ -1,5 +1,5 @@
 # Curative!
-## The No-Nonsense Guide to Your Own Backyard, PopUp, Punk NFT Art Exhibition
+## The No-Nonsense Guide to Your Own Backyard, Pop-Up, Punk NFT Art Exhibition
 
 by [@crcdng](https://twitter.com/crcdng)  
 
@@ -11,7 +11,7 @@ It contains the booklet plus additional material such as:
 * a [technical checklist](SetupWindows11.md) to run an screen from a Windows 11 PC
 * a [technical checklist](SetupRaspberryPi.md) to run a screen from a Raspberry PI
 
-I intend to update the booklet and materials for some time.
+I plan to update the booklet and materials for some time.
 
 Thanks to TZConnect / Tezos Foundation for support. 
 
