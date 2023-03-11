@@ -2,6 +2,13 @@
 
 Large or small, white wall or backyard, AAA curated or punk - this list of exhibitions is intended to inspire:
 
+![](https://pbs.twimg.com/media/Fq4yROZXgAYhmnQ?format=jpg&name=large, "Photo: Mélissa Martinez")
+
+**GXRLS REVOLUTION**            
+curated by [gxrlsrevolution](www.gxrlsrevolution.xyz): [Annelis Staern](https://twitter.com/ARTGIRLS8), [JessyJeanne](https://twitter.com/Jessy_Jeanne), [Joséphine Louis](https://twitter.com/FunghiGallery), [Léa Duhem]([https://twitter.com/duhem_lea](https://twitter.com/LHOOP_), [Marie-Odile Falais](https://twitter.com/imaginemoi_tez)           
+March 2023, IHAM gallery, Paris    
+https://twitter.com/ihamnft/status/1634268725724565511     
+
 ![](https://pbs.twimg.com/media/FqXzcL5XgAEdtB-?format=jpg&name=large "Photo: Kika Nicolela")
 
 **I don't remember much about her**        
