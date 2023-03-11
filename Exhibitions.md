@@ -19,6 +19,14 @@ March 2023, Centre d'Art de la Chapelle de Boondael, Brussels
 https://www.visit.brussels/fr/visiteurs/evenement.I-don-t-remember-much-about-her-Kika-Nicolela.546129        
 https://twitter.com/kikanicolela/status/1631978113310531584/photo/1         
 
+![IMG_6045](https://user-images.githubusercontent.com/830492/224512983-4e11e419-8d5e-41dd-9c47-0f481a84a66a.jpeg "Photo: @crcdng")
+*Photo: @crcdng* 
+
+**Intimacy x 4**            
+curated by [crcdng](https://twitter.com/crcdng)
+February 2023, [Praise Collective](https://www.instagram.com/getpraise/) with [culturamabus](https://www.instagram.com/culturamabus/), Berlin   
+https://twitter.com/crcdng/status/1626978091535945730
+
 ![](https://pbs.twimg.com/media/FiYXVtOUcAcTqoj?format=jpg&name=4096x4096 "Photo: NON NFT Summit")
 *Photo: NON NFT Summit*     
 
@@ -30,9 +38,9 @@ https://www.non-nft.xyz/
 ![](https://www.dekabinett.xyz/static/media/tezos-berlin-art-week-7.799669b1.png "Photo: despace")
 *Photo: despace*     
 
-**dekabinett pop—up exhibition space**    
-comissioned by [despace](https://www.despace.berlin/)    
-multiple exhibitions, June-September 2022, dekabinett, Berlin    
+**dekabinett pop—up exhibitions**    
+multiple exhibitions including [4 screens](https://www.dekabinett.xyz/4-screens), June-September 2022, dekabinett, Berlin 
+comissioned by [despace](https://www.despace.berlin/)   
 https://www.dekabinett.xyz/    
 
 ![proof_of_people](https://user-images.githubusercontent.com/830492/223012373-50665917-dd69-4e8e-8e9f-de9a5c544044.jpeg "Photo: @crcdng")
