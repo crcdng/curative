@@ -2,6 +2,14 @@
 
 Whether large or small, white wall or backyard, AAA curated or punk - this list of exhibitions is meant to inspire:
 
+![IMG_6172](https://user-images.githubusercontent.com/830492/227799150-8eafb2cf-ccad-4ba4-b4df-9508710a0a0c.jpeg "Photo: @crcdng")
+*Photo: @crcdng*    
+
+**PETLS**            
+A solo exhibition by jiwa. Curated by [ntent.art](https://www.ntent.art/). Floral design by [Carolin Ruggaber](https://www.carolinruggaber.com/)    
+March 2023, Obey Art Space, Berlin        
+https://www.ntent.art/articles/petls
+
 ![](https://pbs.twimg.com/media/Fq4yROZXgAYhmnQ?format=jpg "Photo: Mélissa Martinez")
 *Photo: Mélissa Martinez*    
 
