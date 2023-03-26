@@ -8,7 +8,7 @@ This is the repository of the booklet "Curative! The No-Nonsense Guide to Your O
 It contains the booklet plus additional material such as:
 
 * links to inspiring [exhibitions](Exhibitions.md)
-
+* a basic [budget template](BasicBudget.csv) 
 * a [technical checklist](SetupWindows11.md) to run an screen from a Windows 11 PC
 * another [technical checklist](SetupRaspberryPi.md) to run a screen from a Raspberry PI
 * a list of the [hardware](4ScreensHardware.md) used for the [4 screens](https://www.dekabinett.xyz/4-screens) exhibition
