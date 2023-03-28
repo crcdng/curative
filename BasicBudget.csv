@@ -1,13 +1,13 @@
-;Item;Amount;Source;Notes;;
-1.;Location;;;;;
-2.;Team / Staff;;;;;
-3.;Tech Hardware (Screens, Computers…);;;;;
-4.;Exhibition design;;;;;
-5.;Printing / Signage;;;;;
-6.;Materials;;;;;
-7.;Food and Drinks;;;;;
-8.;DJs;;;;;
-9.;PR;;;;;
-10.;Insurance, Fees, Taxes;;;;;
-11.;Cleaning;;;;;
-12.;Buffer / Extra;;;;;
+;Item;Amount;Source;Notes
+1.;Location;;;
+2.;Team / Staff;;;
+3.;Tech Hardware (Screens, Computers…);;;
+4.;Exhibition design;;;
+5.;Printing / Signage;;;
+6.;Materials;;;
+7.;Food and Drinks;;;
+8.;DJs;;;
+9.;PR;;;
+10.;Insurance, Fees, Taxes;;;
+11.;Cleaning;;;
+12.;Buffer / Extra;;;
