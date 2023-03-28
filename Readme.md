@@ -15,7 +15,7 @@ It contains the booklet plus additional material such as:
 
 I am planning to update the booklet and materials for some time.
 
-Thanks to TZConnect / Tezos Foundation for support. 
+Many thanks to despace Berlin / TZConnect / Tezos Foundation for support. 
 
 (c) 2023. License: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/
 
