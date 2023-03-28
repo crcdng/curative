@@ -2,7 +2,7 @@
 
 *Note: These steps worked for me after some tiral and error and research. Technical environments can change quickly. If you hit a problem, please leave a bug report on Github so we can fix this together.*    
 
-Here is the setup for a Raspberry PI computer. When the PI starts, it is running a movie in a loop unattended and without artifacts (see booklet).  
+Here is the setup for a Raspberry PI computer. When the PI starts, it runs a movie in a loop unattended and without artifacts (see booklet).  
 
 ```
 Install PiOS Lite Legacy (Buster) https://www.raspberrypi.com/software/operating-systems/  
