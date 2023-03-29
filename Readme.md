@@ -3,7 +3,7 @@
 
 by [@crcdng](https://twitter.com/crcdng)  
 
-This is the repository of the booklet "Curative! The No-Nonsense Guide to Your Own Backyard, PopUp, Punk NFT Art Exhibition". 
+This is the repository of the booklet ["Curative! The No-Nonsense Guide to Your Own Backyard, PopUp, Punk NFT Art Exhibition"](Curative.pdf). 
 
 It contains the [booklet](Curative.pdf) plus additional material such as:
 
