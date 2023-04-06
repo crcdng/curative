@@ -63,7 +63,7 @@ https://proofofpeople.verticalcrypto.art/london2022.html
 *Photo: @crcdng*     
 
 **Bright Moments NFT Art Berlin**    
-curated by [Bright Moments](https://www.brightmoments.io/). On the left: interactive installation by [Alida Sun](https://linktr.ee/alidasun)     
+curated by [Chanel Verdult](https://twitter.com/c_verdult) / [Bright Moments](https://www.brightmoments.io/). On the left: interactive installation by [Alida Sun](https://linktr.ee/alidasun)     
 April 2022, Kraftwerk Berlin
 https://www.brightmoments.io/berlin    
 https://vimeo.com/704595800
